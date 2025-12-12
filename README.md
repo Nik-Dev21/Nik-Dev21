@@ -1,8 +1,8 @@
 ## Hi I'm Nikhelesh Bhaskaran 👋
 ## Connect with me 
-##🌐Socials:
-##https://www.instagram.com/nik_21_b/
-##https://linkedin.com/in/nikhelesh-bhaskaran
+🌐Socials:
+https://www.instagram.com/nik_21_b/
+https://linkedin.com/in/nikhelesh-bhaskaran
 <!--
 **Nik-Dev21/Nik-Dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
