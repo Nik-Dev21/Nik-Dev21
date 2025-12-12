@@ -1,8 +1,9 @@
 ## Hi I'm Nikhelesh Bhaskaran 👋
 ## Connect with me 
 🌐Socials:
-https://www.instagram.com/nik_21_b/
-https://linkedin.com/in/nikhelesh-bhaskaran
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nik_21_b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhelesh-bhaskaran/)
 <!--
 **Nik-Dev21/Nik-Dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
